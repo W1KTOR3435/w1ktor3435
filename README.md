@@ -2,7 +2,7 @@
 <hr>
 <h3 align="left">A passionate developer from Poland</h3>
 
-- 🔭 I’m currently working on **Fullstack and Frontend projects.**
+- 🔭 I’m currently working on **Fullstack and Frontend** projects.
 
 - 🌱 I want to further **learn and develop** my skills.
 
