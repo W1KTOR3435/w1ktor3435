@@ -6,9 +6,9 @@
 
 - 🌱 I want to further **learn and develop** my skills.
 
-- 📫 How to reach me <a href="mailto:contact@wiktorkowalczyk.pl">contact@wiktorkowalczyk.pl</a>.
+- 📫 How to reach me <a href="mailto:contact@wiktorkowalczyk.pl">contact@wiktorkowalczyk.pl</a>
 
-- 📒 My linkedin profile [https://www.linkedin.com/in/w-kow/](https://www.linkedin.com/in/w-kow/).
+- 📒 My linkedin profile [https://www.linkedin.com/in/w-kow/](https://www.linkedin.com/in/w-kow/)
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Frontend Development:</h4>
