@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on **Fullstack and Frontend projects.**
 
-- 👯 I’m looking to collaborate on **great future projects.**
-
-- 🤝 I’m looking for help with **developing myself as a developer.**
+- 🌱 I want to further **learn and develop** my skills
 
 - 📫 How to reach me <a href="mailto:contact@wiktorkowalczyk.pl">contact@wiktorkowalczyk.pl</a>
 
