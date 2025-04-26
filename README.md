@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **exciting Fullstack projects.**
 
-- 🌱 I’m currently studying **Computer Science** at university.
+- 🌱 I’m currently studying **Computer Science** at WSB Merito University in Chorzow.
 
 - 👯 I’m looking to collaborate on **impactful and interesting challenges.**
 
